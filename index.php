@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>The login app</h1>
+<h2>Now on Github!</h2>
 <?php
 require_once 'core/init.php';
 
